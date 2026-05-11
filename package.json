@@ -72,7 +72,7 @@
         "postinstall": "node ./node_modules/vscode/bin/install"
     },
     "dependencies": {
-        "atomizer": "3.3.4"
+        "atomizer": "3.28.0"
     },
     "devDependencies": {
         "vscode": "^0.11.0"
